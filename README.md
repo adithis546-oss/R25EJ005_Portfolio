@@ -5,3 +5,4 @@ My name is Adithi. I am studying Computer Science and Information Technology. Th
 Learning C/c++.
 
 Interested in web Development.
+Goal: contribute to open source.
