@@ -6,3 +6,6 @@ Learning C/c++.
 
 Interested in web Development.
 Goal: contribute to open source.
+## Projects
+
+I am planning to build projects using C/C++ and web development to improve my programming and development skills.
